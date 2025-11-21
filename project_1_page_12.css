@@ -1,0 +1,159 @@
+.section_m1 {
+    background-image: url('https://i.ibb.co/whybYz08/a.jpg');
+    height: 360px;
+    width: 630px;
+}
+
+.section_m3 {
+    background-image: url('https://i.ibb.co/M3BfbLj/a.webp');
+    height: 360px;
+    width: 630px;
+}
+
+.section_m2 {
+    background-image: url('https://i.ibb.co/VcQ0RXk9/cover-001-Galaxy-Z-Fold6-and-Flip6-Main-KV.jpg');
+    height: 360px;
+    width: 630px;
+}
+.navbar {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 15px 20px;
+}
+
+.nav-link {
+    color: #555 !important;
+    font-weight: 600;
+    margin-left: 15px;
+    transition: all 0.3s ease;
+    padding: 8px 15px !important;
+}
+
+.nav-link:hover, .nav-link.active {
+    background-color: blueviolet;
+    color: white !important;
+    border-radius: 20px;
+    transform: translateY(-2px);
+}
+.heading {
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+ul {
+    font-size: 15px;
+    color: #2A573E;
+}
+
+.mac_m1_air {
+    padding: 20px;
+    border-color: #9BBAD6;
+    border-style: solid;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.img_mac_m1_air {
+    height: 150px;
+    width: 250px;
+}
+.shop-img {
+    height: 35px;
+    width: 70px;
+    margin-right: 20px;
+    transition: all 0.15s ease-in 0.05s;
+}
+
+.shop-img:hover {
+    height: 45px;
+    width: 80px;
+}
+.v-card {
+    background-color: #212a36;
+}
+
+.top-heading {
+    color: white;
+    font-family: 'Roboto';
+}
+
+.y1-heading {
+    color: #00FF00;
+}
+
+.t1-card {
+    background-color: #303d3a;
+    border-color: #00e699;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.a-card {
+    padding: 10px;
+    background-color: #171F29;
+}
+
+.d-card {
+    padding: 20px;
+}
+
+.v-card {
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Roboto';
+    padding: 10px;
+}
+
+.list {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+}
+
+.t2-card {
+    background-color: #372e26;
+    border-color: #E2C04A;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.y2-heading {
+    color: #F7C307;
+}
+
+.t3-card {
+    background-color: #0c2340;
+    border-color: #9baafc;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.y3-heading {
+    color: #4169E1;
+}
+
+.t4-card {
+    background-color: #343b4d;
+    border-color: #343b4d;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.y4-heading {
+    color: #0079D3;
+}
+
+.para_1 {
+    color: #FFFFFF;
+}
+
+.y5-heading {
+    color: #8803fc;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}

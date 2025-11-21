@@ -1,0 +1,57 @@
+.section_gaming_laptops{
+    background-image: url('https://i.ibb.co/S45jyJBk/Gemini-Generated-Image-4kg7rt4kg7rt4kg7.png');
+    height: 360px;
+    width: 630px;
+}
+.gaming_heading{
+    font-family: 'Roboto';
+    padding-top: 20px;
+    padding-left:450px;
+}
+section{
+    border-radius: 5px;
+}
+.section_normal_laptops{
+    background-image: url("https://i.ibb.co/39FfJJHv/Gemini-Generated-Image-yqoax4yqoax4yqoa.png");
+    height: 360px;
+    width: 630px;
+}
+.section_intel_laptops{
+    background-image: url("https://i.ibb.co/mV8hwsM3/Gemini-Generated-Image-aqt9b7aqt9b7aqt9.png");
+    height: 360px;
+    width: 630px;
+}
+.section_mac_books{
+    background-image: url('https://i.ibb.co/LdkrNg92/mac.jpg');
+    height: 360px;
+    width: 630px;
+}
+.intel_heading{
+    font-family: 'Roboto';
+    padding-top: 20px;
+    padding-left:450px;
+}
+.navbar {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 15px 20px;
+}
+
+.nav-link {
+    color: #555 !important;
+    font-weight: 600;
+    margin-left: 15px;
+    transition: all 0.3s ease;
+    padding: 8px 15px !important;
+}
+
+.nav-link:hover, .nav-link.active {
+    background-color: blueviolet;
+    color: white !important;
+    border-radius: 20px;
+    transform: translateY(-2px);
+}
+.brand_logo{
+    height: 150px;
+    width: 180px;
+    margin-right: 30px;
+}
